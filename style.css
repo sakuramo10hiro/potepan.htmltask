@@ -55,8 +55,6 @@ h2{
   background-image: none !important;
 }
 
-
-
 .Header {
   padding-top: 20px;
   padding-bottom: 20px;
@@ -314,7 +312,7 @@ main {
 }
 
 .FirstView {
-  background-image: url(//camp.potepan.com/wp-content/themes/potepancamp/assets/styles/../images/home/first-view/top-hero.jpg);
+  background-image: url(https://camp.potepan.com/wp-content/themes/potepancamp/assets/styles/../images/home/first-view/top-hero.jpg);
   background-size: cover;
   background-position: center;
   padding-top: 100px;
@@ -497,13 +495,6 @@ main {
   font-size: 12px;
   text-decoration: none;
 }
-
-
-
-
-
-
-
 
 .AboutWrapper {
   padding: 120px 0;
